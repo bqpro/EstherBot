@@ -1,5 +1,5 @@
 {
-    "HEJ": "Czołem!Jestem osobistym botem Leszka\n Leszek to kreatywny duch zafascynowany nowymi technologiami.\n![esther](https://raw.githubusercontent.com/bqpro/EstherBot/master/img/leszek_bukowski.jpg)\nChcesz się czegoś dowiedzieć o Leszku? O Botach? A może chcesz sięskontakotwać z Leszkiem? %[Więcej o Leszku](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+    "HEJ": "Czołem!Jestem osobistym botem Leszka\n Leszek to kreatywny duch zafascynowany nowymi technologiami.\n![esther](https://raw.githubusercontent.com/bqpro/EstherBot/master/img/leszek_bukowski.jpg)\nChcesz się czegoś dowiedzieć o Leszku? O Botach? A może chcesz sięskontakotwać z Leszkiem? %[Więcej o Leszku](postback:here_for_the_bot) %[Więcej o Botach](postback:learn_about_esther) %[Kontakt z Leszkiem!]("m.me/leszek.bukowskiKrul")",
     "WIĘCEJ O LESZKU": "",   
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
