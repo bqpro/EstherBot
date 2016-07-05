@@ -1,6 +1,7 @@
 {
     "HEJ": "Czołem!Jestem osobistym botem Leszka\n Leszek to kreatywny duch zafascynowany nowymi technologiami.\n![esther](https://raw.githubusercontent.com/bqpro/EstherBot/master/img/leszek_bukowski.jpg)\nChcesz się czegoś dowiedzieć o Leszku? O Botach? A może chcesz sięskontakotwać z Leszkiem? %[Więcej o Leszku](postback:here_for_the_bot) %[Więcej o Botach](postback:learn_about_esther) %[Kontakt z Leszkiem!](m.me/leszek.bukowskiKrul)",
-    "WIĘCEJ O LESZKU": "",   
+    "WIĘCEJ O LESZKU": "",
+    "WIĘCEJ O BOTACH": "",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "CZEŚĆ": "Bzz...Trrr...Cześć!\nJestem wczesną wersją...khh...bota Leszka. Dopiero się uczę...dzzt...\nPowiedz hej żeby ze mną porozmawiać."
