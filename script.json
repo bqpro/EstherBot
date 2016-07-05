@@ -1,8 +1,5 @@
 {
     "hej": "Czołem!\nJestem osobistym botem Leszka\n Leszek to kreatywny duch zafascynowany nowymi technologiami.\n![esther](https://raw.githubusercontent.com/bqpro/EstherBot/master/img/leszek_bukowski.jpg)\nChcesz się czegoś dowiedzieć o Leszku? O Botach? A może chcesz sięskontakotwać z Leszkiem %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, EstherBot is back.",
     "CZEŚĆ": "Bzz...Trrr...Cześć!\nJestem wczesną wersją...khh...bota Leszka. Dopiero się uczę...dzzt...\nPowiedz hej żeby ze mną porozmawiać."
